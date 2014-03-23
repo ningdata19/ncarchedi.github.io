@@ -13,8 +13,13 @@ h1 {
 
 h3 {
 	padding-top: 15px;
+	padding-bottom: 5px;
 }
 
 hr {
 	margin-top: 20px;
+}
+
+ul {
+	padding-top: 10px;
 }
