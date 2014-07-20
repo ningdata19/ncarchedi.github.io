@@ -1,3 +1,5 @@
+(Pretty version at http://nickcarchedi.com/resume/)
+
 Nick Carchedi
 =============
 
@@ -63,7 +65,7 @@ Experience
 -   Developing the Statistics with Interactive R Learning (swirl)
     educational software platform and the Data Science Specialization on
     Coursera.
--	Mentored by Brian Caffo, PhD, Jeff Leek, PhD, and Roger Peng, PhD.
+-   Mentored by Brian Caffo, PhD, Jeff Leek, PhD, and Roger Peng, PhD.
 
 -   Research Volunteer, Center for Surgical Trials and Outcomes Research
     (CSTOR) // 2012 - 2013
