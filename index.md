@@ -10,6 +10,8 @@ output:
 
 ***
 
+<div class = "col-md-9">
+
 I'm extremely passionate about data science and education. In my new role as **Director of Content Partnerships at [DataCamp](https://www.datacamp.com/)**, I get to work with brilliant people in industry and academia who share my passion and want to create interactive data science courses for hundreds of thousands of students all over the world.
 
 Prior to joining DataCamp, I completed a **masters degree in Biostatistics at Johns Hopkins University**, then spent a year working on the **Analytics team at McKinsey**.
@@ -40,7 +42,15 @@ Click [here](20151019 Carchedi Resume.pdf) to view a PDF version of my resume. S
 * [LinkedIn](http://www.linkedin.com/in/nickcarchedi)
 * [GitHub](https://github.com/ncarchedi)
 
-<p id = "footer">Stay hungry. Stay foolish.</p>
+</div>
+
+<div class = "col-md-3">
+  <img src="IMG_2610_final.jpg" alt="Pic of Nick" width = "100%" style = "max-width:200px">
+</div>
+
+<div class = "col-md-12">
+  <p id = "footer">Stay hungry. Stay foolish.</p>
+</div>
 
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
