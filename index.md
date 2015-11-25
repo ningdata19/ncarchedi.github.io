@@ -29,7 +29,7 @@ Check us out at [swirlstats.com](http://swirlstats.com) and [follow us](https://
 
 #### Data Science Specialization
 
-The [Data Science Specialization](https://www.coursera.org/specialization/jhudatascience/1) is a groundbreaking sequence of nine MOOCs (Massive Open Online Courses) we developed at [Johns Hopkins Biostatistics](http://www.jhsph.edu/departments/biostatistics/), all hosted on the Coursera platform. The courses, which are led by my faculty advisers (Brian, Jeff, and Roger), cover all aspects of the data science process and have attracted **over 2,000,000 enrollees** from around the world since 2013.
+The [Data Science Specialization](https://www.coursera.org/specialization/jhudatascience/1) is a groundbreaking sequence of nine MOOCs (Massive Open Online Courses) we developed at [Johns Hopkins Biostatistics](http://www.jhsph.edu/departments/biostatistics/), all hosted on the Coursera platform. The courses, which are led by my faculty advisers (Brian, Jeff, and Roger), cover all aspects of the data science process and have attracted **over 1,000,000 enrollees** from around the world since 2013.
 
 ## On paper
 
