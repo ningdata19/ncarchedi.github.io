@@ -12,7 +12,7 @@ output:
 
 <div class = "col-md-9">
 
-I'm extremely passionate about data science and education. In my new role as **Director of Content Partnerships at [DataCamp](https://www.datacamp.com/)**, I get to work with brilliant people in industry and academia who share my passion and want to create interactive data science courses for hundreds of thousands of students all over the world.
+I'm extremely passionate about data science and education. In my role as **Director of Course Development at [DataCamp](https://www.datacamp.com/)**, I get to work with brilliant people in industry and academia who share my passion and want to create interactive data science courses for hundreds of thousands of students all over the world.
 
 Prior to joining DataCamp, I completed a **masters degree in Biostatistics at Johns Hopkins University**, then spent a year working on the **Analytics team at McKinsey**.
 
