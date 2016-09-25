@@ -18,12 +18,17 @@ Prior to joining DataCamp, I completed a **masters degree in Biostatistics at Jo
 
 ## Selected adventures
 
+#### Cleaning Data in R (DataCamp)
+
+Although my focus at DataCamp is building courses in partnership with external instructors, I've created a course of my own on [Cleaning Data in R](https://www.datacamp.com/courses/cleaning-data-in-r). 
+
+The course covers the basics of exploring raw data to identify potential problems, tidying data using the tidyr package, and preparing data for analysis by addressing issues such as missing or extreme values. The course finishes with a real-world case study, which ties everything together.
+
 #### swirl (Statistics with Interactive R Learning)
 
 As a graduate student at Johns Hopkins, my primary focus (and the subject of my thesis) was the development of [swirl](http://swirlstats.com).
 
-swirl is a fun and unique software package that teaches data science and R programming. 
-Students receive immediate feedback as they are guided through self-paced and interactive lessons, allowing them to quickly master new skills in an authentic programming environment. Since its inception in 2013, **over 300,000 students** worldwide have used swirl to teach themselves R and data science. 
+swirl is a fun and unique software package that teaches data science and R programming. Students receive immediate feedback as they are guided through self-paced and interactive lessons, allowing them to quickly master new skills in an authentic programming environment. Since its inception in 2013, **over 500,000 students** worldwide have used swirl to teach themselves R and data science.
 
 Check us out at [swirlstats.com](http://swirlstats.com) and [follow us](https://twitter.com/swirlstats) on Twitter for more information.
 
