@@ -12,9 +12,9 @@ output:
 
 <div class = "col-md-9">
 
-I'm extremely passionate about data science and education. In my role as **Director of Course Development at [DataCamp](https://www.datacamp.com/)**, I get to work with brilliant people in industry and academia who share my passion and want to create interactive data science courses for hundreds of thousands of students all over the world.
+I'm extremely passionate about data science and education. In my role as **Director of Content at [DataCamp](https://www.datacamp.com/)**, I get to work with brilliant people in industry and academia who share my passion and want to create interactive data science content for hundreds of thousands of students all over the world.
 
-Prior to joining DataCamp, I completed a **masters degree in Biostatistics at Johns Hopkins University**, then spent a year working on the **Analytics team at McKinsey**.
+Prior to joining DataCamp, I completed a **masters degree in Biostatistics at Johns Hopkins University**, then worked on the **Analytics team at McKinsey**.
 
 ## Selected adventures
 
@@ -28,17 +28,13 @@ The course covers the basics of exploring raw data to identify potential problem
 
 As a graduate student at Johns Hopkins, my primary focus (and the subject of my thesis) was the development of [swirl](http://swirlstats.com).
 
-swirl is a fun and unique software package that teaches data science and R programming. Students receive immediate feedback as they are guided through self-paced and interactive lessons, allowing them to quickly master new skills in an authentic programming environment. Since its inception in 2013, **over 500,000 students** worldwide have used swirl to teach themselves R and data science.
+swirl is a fun and unique software package that teaches data science and R programming. Students receive immediate feedback as they are guided through self-paced and interactive lessons, allowing them to quickly master new skills in an authentic programming environment. Since its inception in 2013, **over 1,000,000 students** worldwide have used swirl to teach themselves R and data science.
 
 Check us out at [swirlstats.com](http://swirlstats.com) and [follow us](https://twitter.com/swirlstats) on Twitter for more information.
 
 #### Data Science Specialization
 
-The [Data Science Specialization](https://www.coursera.org/specialization/jhudatascience/1) is a groundbreaking sequence of nine MOOCs (Massive Open Online Courses) we developed at [Johns Hopkins Biostatistics](http://www.jhsph.edu/departments/biostatistics/), all hosted on the Coursera platform. The courses, which are led by my faculty advisers (Brian, Jeff, and Roger), cover all aspects of the data science process and have attracted **over 1,000,000 enrollees** from around the world since 2013.
-
-## On paper
-
-Click [here](20151019 Carchedi Resume.pdf) to view a PDF version of my resume. Send me an email if you have any questions.
+The [Data Science Specialization](https://www.coursera.org/specialization/jhudatascience/1) is a groundbreaking sequence of nine MOOCs (Massive Open Online Courses) we developed at [Johns Hopkins Biostatistics](http://www.jhsph.edu/departments/biostatistics/), all hosted on the Coursera platform. The courses, which are led by my faculty advisers (Brian, Jeff, and Roger), cover all aspects of the data science process and have attracted **over 1,500,000 enrollees** from around the world since 2013.
 
 ## Say hello
 
